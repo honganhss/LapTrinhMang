@@ -2,12 +2,12 @@
 *.class
 
 # Ignore generated files
-# file_bai1_5.txt
-# file_bai1_8_dest.txt
-# file_bai1_8_src.txt
-# file_bai1_9.dat
-# file_bai1_10.dat
-# test.txt
+file_bai1_5.txt
+file_bai1_8_dest.txt
+file_bai1_8_src.txt
+file_bai1_9.dat
+file_bai1_10.dat
+test.txt
 
 # Ignore OS files
 .DS_Store
